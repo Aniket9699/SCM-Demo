@@ -7,7 +7,7 @@
   <groupId>com.Project</groupId>
   <artifactId>Project</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>ear</packaging>
 
   <name>Project Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
